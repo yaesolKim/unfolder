@@ -1,0 +1,4 @@
+C:/dev/Assignmnet/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/Assignmnet/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/Assignmnet/build/src/CMakeFiles/unfolder.dir
+C:/dev/Assignmnet/build/libs/itree/CMakeFiles/itree.dir

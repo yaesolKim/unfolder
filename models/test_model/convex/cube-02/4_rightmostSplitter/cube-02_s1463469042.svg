@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<svg width="7999" height="7999" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:9.998750;}
+.v {stroke:rgb(0,0,255);stroke-width:9.998750;}
+.b {stroke:rgb(0,0,0);stroke-width:19.997500;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:9.998750}
+.t {stroke:rgb(0,128,0);stroke-width:9.998750;}
+.c {stroke:rgb(128,128,128);stroke-width:9.998750;stroke-dasharray:79.990000, 79.990000;}
+]]></style>
+</defs>
+<line x1="6000.000000" y1="6000.000000" x2="6000.000000" y2="5000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="5000.000000" x2="5000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="6000.000000" x2="6000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="5000.000000" x2="5000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="5000.000000" x2="5000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="5000.000000" x2="6000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="4000.000000" x2="5000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="4000.000000" x2="5000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="4000.000000" x2="5000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="5000.000000" x2="4000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="6000.000000" x2="5000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="4000.000000" y1="5000.000000" x2="4000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="5000.000000" x2="4000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="4000.000000" x2="4000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="4000.000000" x2="4000.000000" y2="5000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="4000.000000" x2="4000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="4000.000000" y1="5000.000000" x2="3000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="3000.000000" y1="6000.000000" x2="4000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="3000.000000" y1="5000.000000" x2="3000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="5000.000000" x2="3000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="4000.000000" x2="3000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="3000.000000" x2="3000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="3000.000000" y1="3000.000000" x2="4000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="4000.000000" x2="4000.000000" y2="3000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="3000.000000" y1="5000.000000" x2="2000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="2000.000000" y1="6000.000000" x2="3000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="2000.000000" y1="5000.000000" x2="2000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="3000.000000" y1="5000.000000" x2="2000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="3000.000000" x2="3000.000000" y2="2000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="3000.000000" y1="2000.000000" x2="3000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="2000.000000" x2="3000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="4000.000000" y1="3000.000000" x2="4000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="2000.000000" y1="5000.000000" x2="1000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="1000.000000" y1="6000.000000" x2="2000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="1000.000000" y1="5000.000000" x2="1000.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="2000.000000" y1="5000.000000" x2="1000.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="2000.000000" x2="3000.000000" y2="1000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="3000.000000" y1="1000.000000" x2="3000.000000" y2="2000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="1000.000000" x2="3000.000000" y2="1000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="2000.000000" x2="4000.000000" y2="1000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="1000.000000" y1="5000.000000" x2="0.000000" y2="6000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="0.000000" y1="6000.000000" x2="1000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="0.000000" y1="5000.000000" x2="0.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="1000.000000" y1="5000.000000" x2="0.000000" y2="5000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="1000.000000" x2="3000.000000" y2="0.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="3000.000000" y1="0.000000" x2="3000.000000" y2="1000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="2000.000000" x2="6000.000000" y2="1000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="1000.000000" x2="5000.000000" y2="2000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="2000.000000" x2="6000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="8000.000000" y1="2000.000000" x2="7000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="7000.000000" y1="2000.000000" x2="8000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="8000.000000" y1="3000.000000" x2="8000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="7000.000000" y1="3000.000000" x2="8000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="7000.000000" y1="2000.000000" x2="7000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="7000.000000" y1="2000.000000" x2="6000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="2000.000000" x2="7000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="3000.000000" x2="7000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="2000.000000" x2="6000.000000" y2="3000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="8000.000000" y1="4000.000000" x2="8000.000000" y2="3000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="7000.000000" y1="3000.000000" x2="8000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="7000.000000" y1="3000.000000" x2="7000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="7000.000000" y1="4000.000000" x2="8000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="3000.000000" x2="7000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="3000.000000" x2="6000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="4000.000000" x2="7000.000000" y2="4000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="3000.000000" x2="6000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="2000.000000" x2="5000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="2000.000000" x2="5000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="3000.000000" x2="5000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="3000.000000" x2="5000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="2000.000000" x2="4000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="3000.000000" x2="5000.000000" y2="3000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="2000.000000" x2="4000.000000" y2="2000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="3000.000000" x2="4000.000000" y2="4000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="8000.000000" x2="6000.000000" y2="8000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="8000.000000" x2="6000.000000" y2="7000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="7000.000000" x2="5000.000000" y2="8000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="7000.000000" x2="5000.000000" y2="7000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="7000.000000" x2="5000.000000" y2="8000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="6000.000000" y1="7000.000000" x2="6000.000000" y2="6000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="6000.000000" y1="6000.000000" x2="5000.000000" y2="7000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="6000.000000" x2="5000.000000" y2="7000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="8000.000000" x2="5000.000000" y2="8000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="7000.000000" x2="4000.000000" y2="8000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="7000.000000" x2="4000.000000" y2="8000.000000" class="m" style="stroke-width:15.998000;" />
+<line x1="5000.000000" y1="7000.000000" x2="4000.000000" y2="7000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="5000.000000" y1="6000.000000" x2="4000.000000" y2="7000.000000" class="n" style="stroke-width:1.999750;" />
+<line x1="4000.000000" y1="6000.000000" x2="4000.000000" y2="7000.000000" class="m" style="stroke-width:15.998000;" />
+<text x="6000.000000" y="5531.996000" transform="rotate(-89.999995 6000.000000 5531.996000)" fill="darkgreen" font-weight="bold" font-size="159.980000">0</text>
+<text x="7468.004000" y="4000.000000" transform="rotate(0.000000 7468.004000 4000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">0</text>
+<text x="5000.000000" y="5531.996000" transform="rotate(-89.999995 5000.000000 5531.996000)" fill="darkgreen" font-weight="bold" font-size="159.980000">4</text>
+<text x="5000.000000" y="5468.004000" transform="rotate(89.999995 5000.000000 5468.004000)" fill="darkgreen" font-weight="bold" font-size="159.980000">4</text>
+<text x="6000.000000" y="4531.996000" transform="rotate(-89.999995 6000.000000 4531.996000)" fill="darkgreen" font-weight="bold" font-size="159.980000">5</text>
+<text x="6468.004000" y="4000.000000" transform="rotate(0.000000 6468.004000 4000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">5</text>
+<text x="5000.000000" y="4531.996000" transform="rotate(-89.999995 5000.000000 4531.996000)" fill="darkgreen" font-weight="bold" font-size="159.980000">8</text>
+<text x="5000.000000" y="4468.004000" transform="rotate(89.999995 5000.000000 4468.004000)" fill="darkgreen" font-weight="bold" font-size="159.980000">8</text>
+<text x="4000.000000" y="6436.008000" transform="rotate(89.999995 4000.000000 6436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">17</text>
+<text x="3436.008000" y="6000.000000" transform="rotate(0.000000 3436.008000 6000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">17</text>
+<text x="3563.992000" y="5000.000000" transform="rotate(179.999990 3563.992000 5000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">18</text>
+<text x="3436.008000" y="5000.000000" transform="rotate(0.000000 3436.008000 5000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">18</text>
+<text x="3545.249177" y="4454.750823" transform="rotate(134.999993 3545.249177 4454.750823)" fill="darkgreen" font-weight="bold" font-size="159.980000">20</text>
+<text x="3454.750823" y="3454.750823" transform="rotate(44.999998 3454.750823 3454.750823)" fill="darkgreen" font-weight="bold" font-size="159.980000">20</text>
+<text x="3436.008000" y="3000.000000" transform="rotate(0.000000 3436.008000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">22</text>
+<text x="3563.992000" y="3000.000000" transform="rotate(179.999990 3563.992000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">22</text>
+<text x="4000.000000" y="7436.008000" transform="rotate(89.999995 4000.000000 7436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">24</text>
+<text x="2436.008000" y="6000.000000" transform="rotate(0.000000 2436.008000 6000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">24</text>
+<text x="2563.992000" y="5000.000000" transform="rotate(179.999990 2563.992000 5000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">25</text>
+<text x="3000.000000" y="2436.008000" transform="rotate(89.999995 3000.000000 2436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">25</text>
+<text x="4436.008000" y="8000.000000" transform="rotate(0.000000 4436.008000 8000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">31</text>
+<text x="1436.008000" y="6000.000000" transform="rotate(0.000000 1436.008000 6000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">31</text>
+<text x="1563.992000" y="5000.000000" transform="rotate(179.999990 1563.992000 5000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">32</text>
+<text x="3000.000000" y="1436.008000" transform="rotate(89.999995 3000.000000 1436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">32</text>
+<text x="4000.000000" y="1563.992000" transform="rotate(-89.999995 4000.000000 1563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">35</text>
+<text x="4563.992000" y="2000.000000" transform="rotate(179.999990 4563.992000 2000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">35</text>
+<text x="5436.008000" y="8000.000000" transform="rotate(0.000000 5436.008000 8000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">38</text>
+<text x="436.008000" y="6000.000000" transform="rotate(0.000000 436.008000 6000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">38</text>
+<text x="563.992000" y="5000.000000" transform="rotate(179.999990 563.992000 5000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">39</text>
+<text x="3000.000000" y="436.008000" transform="rotate(89.999995 3000.000000 436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">39</text>
+<text x="7563.992000" y="2000.000000" transform="rotate(179.999990 7563.992000 2000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">40</text>
+<text x="0.000000" y="5436.008000" transform="rotate(89.999995 0.000000 5436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">40</text>
+<text x="3545.249177" y="545.249177" transform="rotate(-134.999993 3545.249177 545.249177)" fill="darkgreen" font-weight="bold" font-size="159.980000">41</text>
+<text x="5545.249177" y="1454.750823" transform="rotate(134.999993 5545.249177 1454.750823)" fill="darkgreen" font-weight="bold" font-size="159.980000">41</text>
+<text x="6563.992000" y="2000.000000" transform="rotate(179.999990 6563.992000 2000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">43</text>
+<text x="6000.000000" y="1563.992000" transform="rotate(-89.999995 6000.000000 1563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">43</text>
+<text x="6000.000000" y="7563.992000" transform="rotate(-89.999995 6000.000000 7563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">45</text>
+<text x="8000.000000" y="2563.992000" transform="rotate(-89.999995 8000.000000 2563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">45</text>
+<text x="7563.992000" y="3000.000000" transform="rotate(179.999990 7563.992000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">47</text>
+<text x="7436.008000" y="3000.000000" transform="rotate(0.000000 7436.008000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">47</text>
+<text x="6563.992000" y="3000.000000" transform="rotate(179.999990 6563.992000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">50</text>
+<text x="6436.008000" y="3000.000000" transform="rotate(0.000000 6436.008000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">50</text>
+<text x="8000.000000" y="3563.992000" transform="rotate(-89.999995 8000.000000 3563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">52</text>
+<text x="6000.000000" y="6563.992000" transform="rotate(-89.999995 6000.000000 6563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">52</text>
+<text x="5563.992000" y="3000.000000" transform="rotate(179.999990 5563.992000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">57</text>
+<text x="5436.008000" y="3000.000000" transform="rotate(0.000000 5436.008000 3000.000000)" fill="darkgreen" font-weight="bold" font-size="159.980000">57</text>
+<text x="5000.000000" y="7563.992000" transform="rotate(-89.999995 5000.000000 7563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">66</text>
+<text x="5000.000000" y="7436.008000" transform="rotate(89.999995 5000.000000 7436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">66</text>
+<text x="5000.000000" y="6436.008000" transform="rotate(89.999995 5000.000000 6436.008000)" fill="darkgreen" font-weight="bold" font-size="159.980000">68</text>
+<text x="5000.000000" y="6563.992000" transform="rotate(-89.999995 5000.000000 6563.992000)" fill="darkgreen" font-weight="bold" font-size="159.980000">68</text>
+</svg>

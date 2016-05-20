@@ -1,0 +1,26 @@
+﻿Build started 2016-05-14 오후 9:51:34.
+     1>Project "C:\dev\Assignmnet\build\src\unfolder.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\dev\Assignmnet\src /IC:\dev\Assignmnet\src\GL /IC:\dev\Assignmnet\src\mathtool /IC:\dev\Assignmnet\src\modelgraph /IC:\dev\Assignmnet\libs /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"unfolder.dir\Debug\\" /Fd"unfolder.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C:\dev\Assignmnet\src\Splitter.cpp
+         Splitter.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\dev\Assignmnet\bin\unfolder.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:/dev/Assignmnet/libs /LIBPATH:C:/dev/Assignmnet/libs/Debug /LIBPATH:C:/dev/Assignmnet/libs/GL /LIBPATH:C:/dev/Assignmnet/libs/GL/Debug /LIBPATH:C:/dev/Assignmnet/libs/itree /LIBPATH:C:/dev/Assignmnet/libs/itree/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\libs\itree\Debug\itree.lib glu32.lib opengl32.lib glu32.lib opengl32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/Assignmnet/build/Debug/unfolder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/Assignmnet/build/Debug/unfolder.lib" /MACHINE:X86 /SAFESEH  /machine:X86 unfolder.dir\Debug\model.obj
+         unfolder.dir\Debug\main.obj
+         unfolder.dir\Debug\Splitter.obj
+         unfolder.dir\Debug\spatial_hash.obj
+         unfolder.dir\Debug\unfolder.obj
+         unfolder.dir\Debug\OverlappingChecker.obj
+         unfolder.dir\Debug\gli.obj
+         unfolder.dir\Debug\Basic.obj
+         unfolder.dir\Debug\Quaternion.obj
+         unfolder.dir\Debug\Geometry.obj
+         unfolder.dir\Debug\Box.obj
+         unfolder.dir\Debug\ModelEdge.obj
+         unfolder.dir\Debug\ModelGraph.obj
+         unfolder.dir\Debug\ModelNode.obj
+         unfolder.vcxproj -> C:\dev\Assignmnet\bin\unfolder.exe
+     1>Done Building Project "C:\dev\Assignmnet\build\src\unfolder.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
